@@ -2,6 +2,6 @@
 #include <studio.h>
 
 int main() {
-  printf("hello world\n");
+  printf("Hello world!\n");
   return0;
 }
